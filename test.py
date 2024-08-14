@@ -1,0 +1,1 @@
+print('Va alaikum assalam')
